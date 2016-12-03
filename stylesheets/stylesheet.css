@@ -174,16 +174,6 @@ sub {
   bottom: -0.25em;
 }
 
-#rectangle > span {
-  position: absolute;
-  top: 0;
-  right: 0;
-  height: 100%;
-  background-color: white;
-  border-left: 1px solid transparent;
-  animation: Fwrite 3s steps(500, start) infinite, Wbar 0.5s step-end infinite;
-    -webkit-animation: Fwrite 3s steps(500, start) infinite, Wbar 0.5s step-end infinite;
-}
 
 /* Embedded content
    ========================================================================== */
